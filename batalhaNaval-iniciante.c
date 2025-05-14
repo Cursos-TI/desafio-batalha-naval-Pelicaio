@@ -4,7 +4,6 @@
 
 
 int main(){
-
     int soma = 0;
 
     int tabuleiro[LINHAS][COLUNAS];
